@@ -1,3 +1,3 @@
-Insert into article(id,title,content) values(1,'가가가가','1111');
-Insert into article(id,title,content) values(2,'나나나나','2222');
-Insert into article(id,title,content) values(3,'다다다다','3333');
+Insert into article(title,content) values('가가가가','1111');
+Insert into article(title,content) values('나나나나','2222');
+Insert into article(title,content) values('다다다다','3333');
